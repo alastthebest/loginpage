@@ -1,4 +1,4 @@
-##Basit ve animasyonlu giriş sayfası
+Basit ve animasyonlu giriş sayfası
 
 Eğitim videosu izlerken yapmıştım ve paylaşmazsam olmazdı.
 
